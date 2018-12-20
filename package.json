@@ -5,7 +5,7 @@
   "author": "Manil Chowdhury <manil.chowdhury@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chowdhurian/nodejs-advisor/"
+    "url": "https://github.com/chowdhurian/nodejs-advisor.git"
   },
   "dependencies": {
     "gatsby": "^1.9.279",
